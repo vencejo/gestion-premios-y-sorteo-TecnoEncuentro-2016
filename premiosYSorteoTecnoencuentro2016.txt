@@ -1,0 +1,489 @@
+
+
+########################################################################
+				TECNOENCUENTRO ALMERIA 2016 
+########################################################################
+
+
+PREMIOS ESPECIALES de exhibicion
+==================================================
+------------------------------
+Mejores innovacion exhibicion
+
+Crystal_Byte 
+innovacion -> 100
+
+KlinWare  
+innovacion -> 0
+
+SEK-Alboran_Exhibición 
+innovacion -> 0
+
+------------------------------
+
+------------------------------
+Mejores cultura exhibicion
+
+KlinWare  
+cultura -> 100
+
+Crystal_Byte 
+cultura -> 0
+
+SEK-Alboran_Exhibición 
+cultura -> 0
+
+------------------------------
+
+------------------------------
+Mejores matematicas exhibicion
+
+SEK-Alboran_Exhibición 
+matematicas -> 100
+
+KlinWare  
+matematicas -> 0
+
+Crystal_Byte 
+matematicas -> 0
+
+------------------------------
+
+------------------------------
+Mejores especial exhibicion
+
+ASACAL_Cuevas 
+especial -> 100
+
+SEK-Alboran_Exhibición 
+especial -> 0
+
+KlinWare  
+especial -> 0
+
+------------------------------
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+PODIUM de exhibicion
+==================================================
+------------------------------
+Podium de exhibicion
+
+SEK-Alboran_Exhibición 
+puntos -> 1215
+
+IES_Jaroso_Exhibición 
+puntos -> 1165
+
+ASACAL_Cuevas 
+puntos -> 1155
+
+------------------------------
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+PREMIOS ESPECIALES de competicion
+==================================================
+------------------------------
+Mejores gotzilla competicion
+
+Infernux Swager 
+gotzilla -> 100
+
+IES Azahar  
+gotzilla -> 0
+
+Leotrox 
+gotzilla -> 0
+
+------------------------------
+
+------------------------------
+Mejores hormiga competicion
+
+Prince Robots 
+hormiga -> 100
+
+Infernux Swager 
+hormiga -> 0
+
+IES Azahar  
+hormiga -> 0
+
+------------------------------
+
+------------------------------
+Mejores troll competicion
+
+TecnoEquipo 
+troll -> 200
+
+Prince Robots 
+troll -> 0
+
+Infernux Swager 
+troll -> 0
+
+------------------------------
+
+------------------------------
+Mejores taller competicion
+
+RoboEquipo 
+taller -> 100
+
+TecnoEquipo 
+taller -> 0
+
+Prince Robots 
+taller -> 0
+
+------------------------------
+
+------------------------------
+Mejores milojos competicion
+
+LosTornados 
+milojos -> 100
+
+RoboEquipo 
+milojos -> 0
+
+TecnoEquipo 
+milojos -> 0
+
+------------------------------
+
+------------------------------
+Mejores picasso competicion
+
+Leotrox 
+picasso -> 100
+
+LosTornados 
+picasso -> 0
+
+RoboEquipo 
+picasso -> 0
+
+------------------------------
+
+------------------------------
+Mejores plomo competicion
+
+Datronic 
+plomo -> 100
+
+Leotrox 
+plomo -> 0
+
+LosTornados 
+plomo -> 0
+
+------------------------------
+
+------------------------------
+Mejores pluma competicion
+
+IES Campos de Nijar 
+pluma -> 100
+
+Datronic 
+pluma -> 0
+
+Leotrox 
+pluma -> 0
+
+------------------------------
+
+------------------------------
+Mejores colmena competicion
+
+Destroyers plus 
+colmena -> 100
+
+IES Campos de Nijar 
+colmena -> 0
+
+Datronic 
+colmena -> 0
+
+------------------------------
+
+------------------------------
+Mejores promesas competicion
+
+JJYH 
+promesas -> 100
+
+Destroyers plus 
+promesas -> 0
+
+IES Campos de Nijar 
+promesas -> 0
+
+------------------------------
+
+------------------------------
+Mejores innovacion competicion
+
+JarosoB 
+innovacion -> 100
+
+JJYH 
+innovacion -> 0
+
+Destroyers plus 
+innovacion -> 0
+
+------------------------------
+
+------------------------------
+Mejores cultura competicion
+
+Asacal Almería 2 
+cultura -> 100
+
+JarosoB 
+cultura -> 0
+
+JJYH 
+cultura -> 0
+
+------------------------------
+
+------------------------------
+Mejores matematicas competicion
+
+TRASHBOX 
+matematicas -> 100
+
+Asacal Almería 2 
+matematicas -> 0
+
+JarosoB 
+matematicas -> 0
+
+------------------------------
+
+------------------------------
+Mejores especial competicion
+
+Asacal Almería 2 
+especial -> 100
+
+TRASHBOX 
+especial -> 0
+
+JarosoB 
+especial -> 0
+
+------------------------------
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+MEJORES LOGISTICOS de la Competicon
+==================================================
+------------------------------
+Mejores Logisticos:
+
+TRASHBOX 
+mejorLogistica-> puntos = 700 , mejor tiempo = 0:00:54
+
+Virus 
+mejorLogistica-> puntos = 700 , mejor tiempo = 0:00:59
+
+Electric Star 
+mejorLogistica-> puntos = 670 , mejor tiempo = 0:01:25
+
+------------------------------
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+MEJORES RECOLECTORES de la competicion
+==================================================
+------------------------------
+Mejores Recolectores:
+
+Electric Star 
+mejorRecoleccion-> puntos = 690 , mejor tiempo = 0:01:14
+
+Datronic 
+mejorRecoleccion-> puntos = 500 , mejor tiempo = 0:00:53
+
+TRASHBOX 
+mejorRecoleccion-> puntos = 500 , mejor tiempo = 0:00:59
+
+------------------------------
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+PODIUM de competicion
+==================================================
+------------------------------
+Podium de competicion
+
+TRASHBOX 
+puntos -> 2200
+tiempo -> 0:02:47
+
+Virus 
+puntos -> 2160
+tiempo -> 0:05:33
+
+Electric Star 
+puntos -> 1930
+tiempo -> 0:05:48
+
+------------------------------
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+CUADRO DE HONOR DEL TECNOENCUENTRO
+Seccion: competicion
+--------------------
+
+TRASHBOX
+Premios Ganados: 3
+matematicas, Mejor Logistico, competicion : 1 puesto, 
+
+Electric Star
+Premios Ganados: 2
+Mejor Recolector, competicion : 3 puesto, 
+
+Asacal Almería 2
+Premios Ganados: 2
+cultura, especial, 
+
+Virus
+Premios Ganados: 1
+competicion : 2 puesto, 
+
+IES Campos de Nijar
+Premios Ganados: 1
+pluma, 
+
+Leotrox
+Premios Ganados: 1
+picasso, 
+
+Datronic
+Premios Ganados: 1
+plomo, 
+
+Infernux Swager
+Premios Ganados: 1
+gotzilla, 
+
+JarosoB
+Premios Ganados: 1
+innovacion, 
+
+JJYH
+Premios Ganados: 1
+promesas, 
+
+Destroyers plus
+Premios Ganados: 1
+colmena, 
+
+Prince Robots
+Premios Ganados: 1
+hormiga, 
+
+TecnoEquipo
+Premios Ganados: 1
+troll, 
+
+RoboEquipo
+Premios Ganados: 1
+taller, 
+
+LosTornados
+Premios Ganados: 1
+milojos, 
+
+aSEKmov
+Premios Ganados: 0
+
+
+IES Azahar 
+Premios Ganados: 0
+
+
+IES Ciudad Dalias
+Premios Ganados: 0
+
+
+SugarX
+Premios Ganados: 0
+
+
+Multirobot
+Premios Ganados: 0
+
+
+RAM
+Premios Ganados: 0
+
+
+Los robochachis
+Premios Ganados: 0
+
+
+CardenalCisnerosCompetición
+Premios Ganados: 0
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+CUADRO DE HONOR DEL TECNOENCUENTRO
+Seccion: exhibicion
+--------------------
+
+SEK-Alboran_Exhibición
+Premios Ganados: 2
+matematicas, exhibicion : 1 puesto, 
+
+ASACAL_Cuevas
+Premios Ganados: 2
+especial, exhibicion : 3 puesto, 
+
+IES_Jaroso_Exhibición
+Premios Ganados: 1
+exhibicion : 2 puesto, 
+
+KlinWare 
+Premios Ganados: 1
+cultura, 
+
+Crystal_Byte
+Premios Ganados: 1
+innovacion, 
+
+CardenalCisnerosExhibición
+Premios Ganados: 0
+
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+AGRACIADOS DEL SORTEO
+--------------------
+1- ('Marvin', 'RAM')
+2- ('Victoria Hernández Mesas', 'LosTornados')
+3- ('Jose Juan Sánchez Hernández', 'IES Campos de Nijar')
+4- ('Ricardo Álvarez Oliver', 'ASACAL_Cuevas')
+5- ('Christian Sanchez Espinosa', 'IES Ciudad Dalias')
+6- ('Phoebe May Eccles', 'SugarX')
+7- ('Maxím', 'Asacal Almería 2')
+8- ('Roberto LUCAS ESPINOSA', 'RAM')
+9- ('Juan Carlos Gutierrez', 'aSEKmov')
+10- ('Jose  Manuel Rodríguez Blanque', 'Infernux Swager')
+11- ('Luís Castaño Soler', 'IES Azahar ')
+12- ('Jose Miguel Ortíz Pastor', 'Datronic')
+13- ('Laura Rodríguez Blanque', 'Infernux Swager')
+14- ('Alejandro Alonso Sanchez', 'Prince Robots')
+15- ('Cristian Georgian Vica', 'IES Campos de Nijar')
+16- ('Francisco Lajarin', 'IES Azahar ')
+17- ('Rafael Cazorla', 'SugarX')
