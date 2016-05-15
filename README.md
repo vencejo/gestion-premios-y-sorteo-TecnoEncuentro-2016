@@ -12,6 +12,12 @@ y luego ejecutar el programa en el terminal con
 y en el archivo de texto quedarían impresos los premios , calculados por el programa siguiendo  los criterios 
 de la organización del evento.
 
+Puntuaciones pormenorizadas de los equipos
+------------------------------------------
+
+Las puntuaciones pormenorizadas de los equipos se pueden consultar usando un programa del tipo Excel abriendo el 
+archivo "tecnoencuentro.xlsx"
+
 
 Módulos Necesarios
 ------------------
